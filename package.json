@@ -1,0 +1,20 @@
+{
+  "name": "nannyconnect",
+  "version": "1.0.0",
+  "description": "A reliable platform to connect parents with trusted caregivers",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "nanny",
+    "childcare",
+    "caregiver",
+    "parenting"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
