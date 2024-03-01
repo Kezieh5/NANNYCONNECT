@@ -1,4 +1,5 @@
 import React from 'react';
+import './landingPage.css'; // Importing external CSS file
 import nannyImage from './image.png';
 
 const LandingPage = () => {
