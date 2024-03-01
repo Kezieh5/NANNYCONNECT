@@ -18,7 +18,7 @@ const server = http.createServer((req, res) => {
     // Set content type based on file extension
     const contentType = {
         '.html': 'text/html',
-        '.css': 'text/css',
+        '.css': 'styles/css',
         '.js': 'text/javascript',
         '.json': 'application/json',
         '.png': 'image/png',
